@@ -1,0 +1,5 @@
+{
+  "name": "GitPulse AI",
+  "description": "Intelligent GitHub repository analyzer powered by Gemini. Visualize contributor statistics, line changes, and PR activity with AI-driven team insights.",
+  "requestFramePermissions": []
+}
